@@ -9,7 +9,7 @@ function buyCake (){
         info: "First redux action"
     }    
 }
-console.log(buyCake)
+
 //state
 const initialState = {
     numOfCakes : 10
